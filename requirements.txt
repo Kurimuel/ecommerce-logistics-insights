@@ -1,0 +1,8 @@
+pandas>=2.0
+sqlalchemy
+psycopg2-binary
+scipy
+scikit-learn
+streamlit
+matplotlib
+seaborn
